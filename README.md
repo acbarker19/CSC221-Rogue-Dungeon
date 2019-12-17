@@ -1,6 +1,7 @@
-# UMU Rogue Dungeon
-#### Created By Jacob Sanford & Alec Barker
-A Basic Rogue Dungeon Game in Python
+# Rogue Dungeon
+#### Created By Alec Barker and Jacob Sanford
+
+A simple Roguelike game created in Python.
 
 Created for the University of Mount Union's CSC 221: Intermediate Programming in Python class taught by Dr. Kenneth Weber
 
@@ -12,7 +13,7 @@ Created for the University of Mount Union's CSC 221: Intermediate Programming in
 4. The user will see a menu and be prompted for an input. They can type in:
 	- `Play` to play the game
 	- `Instructions` to read the gameplay instructions listed below
-    - `Settings` to change the settings of the game
+	- `Settings` to change the settings of the game
 	- `Quit` to close out of the program
 
 ## Gameplay Instructions
@@ -45,10 +46,10 @@ Controls:
 - A user is presented with a menu upon starting the game. They can:
 	- Play the game
 	- View the instructions
-	- Enter gameplay modifiers in the options
+	- Enter gameplay modifiers in the settings
 	- Quit the program
 - In the game, there are four types of objects the user will encounter:
-	- The player character
+	- The Player Character
 		- There is one player character that is randomly generated on the playing grid
 		- The user can control the player character using the WASD keys or arrow keys to move around the grid
 		- The player character can use the E key to attack enemies and will gain points from killing them
@@ -66,13 +67,13 @@ Controls:
 	- Walls
 		- There are multiple walls that randomly generate on the playing grid
 		- Neither the player character nor enemies can move over top of a wall
-- Options
+- Settings
 	- Users can customize some aspects of the game such as:
 		- Grid size
 		- Number of enemies
 		- Number of loot items
 		- Number of walls
-		- Base player character health
+		- Player character health
 
 ## Possible Features in the Future
 - Custom Dungeons
