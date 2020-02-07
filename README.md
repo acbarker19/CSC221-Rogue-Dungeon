@@ -3,7 +3,7 @@
 
 A simple Roguelike game created in Python.
 
-Created for the University of Mount Union's CSC 221: Intermediate Programming in Python class taught by Dr. Kenneth Weber
+Created for the University of Mount Union's CSC 221: Intermediate Programming in Python class taught by Dr. Kenneth Weber.
 
 ## How to Run the Program
 1. Open Command Prompt or Python Shell
